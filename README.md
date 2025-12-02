@@ -7,6 +7,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025), written i
 | Day | Challenge | Stars |
 |-----|-----------|-------|
 | 1 | [Secret Entrance](./challenge-1) | ⭐⭐ |
+| 2 | [Gift Shop](./challenge-2) | ⭐⭐ |
 
 ## Structure
 
