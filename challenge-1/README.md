@@ -19,14 +19,6 @@ Instead of simulating every click (which would be O(n) per rotation), we calcula
 - **Going right:** `position / 100` gives the number of times we wrapped past 100 (which equals 0)
 - **Going left:** If the new position ≤ 0, we crossed zero. The count is `|position| / 100 + 1`, unless we started at 0 (then it's `|position| / 100` since leaving 0 doesn't count as crossing it)
 
-## Running
-
-```bash
-cargo run
-```
-
-Input file should be placed at `.fixtures/input.txt`.
-
 ## Complexity
 
 - **Part 1:** O(n) where n = number of rotations

@@ -22,14 +22,6 @@ For each possible pattern length `i` from 1 to `len/2`, check if the number is e
     .any(|i| bytes.chunks(i).all(|chunk| chunk == &bytes[..i]))
 ```
 
-## Running
-
-```bash
-cargo run
-```
-
-Input file should be placed at `.fixtures/input.txt`.
-
 ## Complexity
 
 - **Part 1:** O(n × d) where n = total numbers in ranges, d = digits per number

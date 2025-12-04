@@ -8,6 +8,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025), written i
 |-----|-----------|-------|
 | 1 | [Secret Entrance](./challenge-1) | ⭐⭐ |
 | 2 | [Gift Shop](./challenge-2) | ⭐⭐ |
+| 3 | [Lobby](./challenge-3) | ⭐⭐ |
 
 ## Structure
 
