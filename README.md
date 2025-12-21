@@ -11,6 +11,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025), written i
 | 3 | [Lobby](./challenge-3) | ⭐⭐ |
 | 4 | [Printing Department](./challenge-4) | ⭐⭐ |
 | 5 | [Cafeteria](./challenge-5) | ⭐⭐ |
+| 6 | [Trash Compactor](./challenge-6) | ⭐⭐ |
 
 ## Structure
 
